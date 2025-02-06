@@ -33,7 +33,7 @@ const Commitment = () => {
     const [activeCategory, setActiveCategory] = useState('ALL');
 
   return (
-    <section className="py-20 bg-slate-800 text-white">
+    <section className="py-20 bg-slate-800 text-white" id='work'>
     <div className="container mx-auto px-4">
       <h2 className="text-3xl font-bold text-center mb-8 text-coral-500">COMMITMENT TO QUALITY AND COMPLIANCE</h2>
       <p className="text-center mb-12 italic">
